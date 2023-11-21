@@ -1309,10 +1309,33 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative;
+  overflow: hidden;
 }
-
-.oris_box > .zoom-1_img > img {
-  width: 100%;
+.zoomIn {
+  position: absolute;
+  transform: rotate3d(1, 1, 1, 15deg);
+  left: 25%;
+  top: 25%;
+}
+.oris_box > .zoom-1_img > img,
+.oris_box > .zoom-2_img > img,
+.oris_box > .zoom-3_img > img,
+.oris_box > .zoom-4_img > img,
+.oris_box > .zoom-5_img > img,
+.oris_box > .zoom-6_img > img,
+.oris_box > .zoom-8_img > img,
+.oris_box > .zoom-8_img > img,
+.oris_box > .zoom-9_img > img,
+.oris_box > .zoom-10_img > img,
+.oris_box > .zoom-11_img > img,
+.oris_box > .zoom-12_img > img,
+.oris_box > .zoom-13_img > img,
+.oris_box > .zoom-14_img > img,
+.oris_box > .zoom-15_img > img,
+.oris_box > .zoom-16_img > img,
+.oris_box > .zoom-17_img > img {
+  scale: 2.5;
 }
 
 .oris-left {

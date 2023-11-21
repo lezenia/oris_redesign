@@ -149,4 +149,228 @@ $(document).ready(function () {
         .css("opacity", "0");
     }
   );
+  $(".zoom-2").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-2_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-2_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-3").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-3_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-3_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-4").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-4_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-4_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-5").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-5_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-5_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-6").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-6_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-6_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-7").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-7_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-7_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-8").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-8_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-8_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-9").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-9_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-9_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-10").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-10_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-10_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-11").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-11_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-11_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-12").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-12_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-12_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-13").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-13_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-13_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-14").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-14_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-14_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-15").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-15_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-15_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-16").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-16_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-16_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
+  $(".zoom-17").hover(
+    function () {
+      // 마우스가 요소 위로 이동할 때 oris_box를 보이도록 설정
+      $(".oris_box > .zoom-17_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "1");
+    },
+    function () {
+      // 마우스가 요소에서 벗어날 때 oris_box를 숨기도록 설정
+      $(".oris_box > .zoom-17_img > img")
+        .css("transition", "opacity .5s")
+        .css("opacity", "0");
+    }
+  );
 });
